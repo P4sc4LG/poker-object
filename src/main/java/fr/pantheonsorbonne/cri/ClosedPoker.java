@@ -4,7 +4,7 @@ package fr.pantheonsorbonne.cri;
  * Hello world!
  *
  */
-public class App 
+public class ClosedPoker 
 {
     public static void main( String[] args )
     {
