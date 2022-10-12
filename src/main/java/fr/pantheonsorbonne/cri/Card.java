@@ -13,4 +13,9 @@ public class Card {
 
     public String getValue(){ return symbol;}
     public String getSymbol(){ return value;}
+
+    
+    public boolean Equals(String symbol, String value){
+        return (this.symbol.equals(symbol) && this.value.equals(value));
+    }
 }
